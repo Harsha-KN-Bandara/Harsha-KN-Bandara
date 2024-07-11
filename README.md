@@ -4,7 +4,7 @@
 * I’m looking to collaborate on Information Technology Project<br>
 * Ask me about Java<br>
 * How to reach me harshakavindu1999nb@gmail.com<br>
-* Fun fact #Call Me Chuuti
+* Fun fact #Their-Chuuti
 
 
 ## 🌐 Socials:
