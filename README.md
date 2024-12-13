@@ -1,7 +1,7 @@
 # 💫 About Me:
-* I’m currently working on Programming Application Framework<br>
-* I’m currently learning Spring Boot<br>
-* I’m looking to collaborate on Information Technology Project<br>
+* I’m currently working on Research Project Of My University<br>
+* I’m currently learning Machine Learning and React Native Mobile Application Development<br>
+* I’m looking to collaborate on Web application Project with Inspiredlk<br>
 * Ask me about Java<br>
 * How to reach me harshakavindu1999nb@gmail.com<br>
 * Fun fact #Their-Chuuti
